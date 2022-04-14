@@ -1,0 +1,7 @@
+#inspire {
+    /deep/ {
+      .v-input__control {
+        display: none;
+      }
+    }
+  }
